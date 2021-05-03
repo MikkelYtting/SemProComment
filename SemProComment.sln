@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemProComment", "SemProComment\SemProComment.csproj", "{F7EF9B3E-370C-4623-9951-11E1CE6E2742}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemProCommentWeb", "SemProCommentWeb\SemProCommentWeb.csproj", "{B0A2669D-E447-40E6-B76F-93F56CD95F65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7EF9B3E-370C-4623-9951-11E1CE6E2742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7EF9B3E-370C-4623-9951-11E1CE6E2742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7EF9B3E-370C-4623-9951-11E1CE6E2742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7EF9B3E-370C-4623-9951-11E1CE6E2742}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0A2669D-E447-40E6-B76F-93F56CD95F65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0A2669D-E447-40E6-B76F-93F56CD95F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0A2669D-E447-40E6-B76F-93F56CD95F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0A2669D-E447-40E6-B76F-93F56CD95F65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {422868BE-8787-4078-9409-CCB223D3E064}
+	EndGlobalSection
+EndGlobal
